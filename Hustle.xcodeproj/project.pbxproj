@@ -12,6 +12,7 @@
 		D378BF7C2046ED6E0019689D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D378BF7A2046ED6E0019689D /* Main.storyboard */; };
 		D378BF7E2046ED6E0019689D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D378BF7D2046ED6E0019689D /* Assets.xcassets */; };
 		D378BF812046ED6E0019689D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D378BF7F2046ED6E0019689D /* LaunchScreen.storyboard */; };
+		D378BF8C2046FA040019689D /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = D378BF8A2046EEEE0019689D /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D378BF7D2046ED6E0019689D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D378BF802046ED6E0019689D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D378BF822046ED6E0019689D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D378BF8A2046EEEE0019689D /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "hustle-on.wav"; path = "hustle-mode-code-assets/assets/Assets/hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				D378BF7D2046ED6E0019689D /* Assets.xcassets */,
 				D378BF7F2046ED6E0019689D /* LaunchScreen.storyboard */,
 				D378BF822046ED6E0019689D /* Info.plist */,
+				D378BF8A2046EEEE0019689D /* hustle-on.wav */,
 			);
 			path = Hustle;
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D378BF8C2046FA040019689D /* hustle-on.wav in Resources */,
 				D378BF812046ED6E0019689D /* LaunchScreen.storyboard in Resources */,
 				D378BF7E2046ED6E0019689D /* Assets.xcassets in Resources */,
 				D378BF7C2046ED6E0019689D /* Main.storyboard in Resources */,
